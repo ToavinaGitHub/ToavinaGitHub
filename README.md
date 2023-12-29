@@ -1,10 +1,8 @@
-Hi there 👋
-I'm Toavina
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=40&lines=Hi+%F0%9F%98%80!+I'm+Toavina;A+very+big+fan+of+BMW+%F0%9F%91%A5.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=40&lines=Hi+%F0%9F%98%80!+I'm+Toavina;A+very+big+fan+of+BMW+XD)](https://git.io/typing-svg)
  
 🔭 I’m currently working on BMW mobile app for BMW lovers
+
 🌱 I’m currently learning machine learning
 <!--
 **ToavinaGitHub/ToavinaGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
