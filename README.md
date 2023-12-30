@@ -1,6 +1,7 @@
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=40&lines=Hi+%F0%9F%98%80!+I'm+Toavina+Razakarivony;Looks+like+pastor+guy+but+chill+boy+XD)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=40&lines=Hi+%F0%9F%98%80!+I'm+Toavina+Razakarivony;Looks+like+pastor+guy+but+chill+boy+XD+)](https://git.io/typing-svg)
+  
 
   <div>
     <a href="https://m.me/Toavina.godatesgaming">
