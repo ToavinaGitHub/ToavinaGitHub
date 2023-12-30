@@ -22,6 +22,13 @@
   [![](https://github-readme-streak-stats.herokuapp.com/?user=ToavinaGitHub&theme=adluin#gh-light-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=ToavinaGitHub&theme=tokyolight&hide_border=false#gh-light-mode-only)
 
 </div>
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+
+[![](https://github-profile-trophy.vercel.app/?username=ToavinaGitHub&theme=dracula&no-frame=false&no-bg=false&margin-w=4#gh-dark-mode-only)](https://github-profile-trophy.vercel.app/?username=ToavinaGitHub&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4#gh-dark-mode-only)
+[![](https://github-profile-trophy.vercel.app/?username=ToavinaGitHub&theme=adluin&no-frame=false&no-bg=true&margin-w=4#gh-light-mode-only)](https://github-profile-trophy.vercel.app/?username=ToavinaGitHub&theme=tokyolight&no-frame=false&no-bg=false&margin-w=4#gh-light-mode-only)
+
+</div>
 
 <!--
 **ToavinaGitHub/ToavinaGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
