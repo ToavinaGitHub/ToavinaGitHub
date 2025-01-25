@@ -1,7 +1,3 @@
-
-<div align="center">
-   <img src="https://github.com/ToavinaGitHub/ToavinaGitHub/blob/main/im-chill-im-as-chill-as-a-cucumber.gif" width="350"/>
-</div>
 <div align="center">
   <div>
     <a href="https://m.me/Toavina.godatesgaming">
@@ -16,8 +12,6 @@
   </div>
 </div>
 
-
-<!--
 <div align="center">
   <h3>📊 GitHub Stats</h3>
 
@@ -51,4 +45,3 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning machine learning
 -->
-
