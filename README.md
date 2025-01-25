@@ -21,29 +21,6 @@
 ---
 
 <div align="center">
-  <h2>🌟 About Me</h2>
-  <p>
-    👨‍💻 Full-Stack Developer | 🌐 Problem Solver | 🚀 Innovator<br>
-    💡 I’m currently working on a <strong>BMW mobile app</strong> for BMW enthusiasts.<br>
-    🌱 Learning more about <strong>Machine Learning</strong> and <strong>AI-driven applications</strong>.<br>
-    📫 Reach me anytime via the links above!
-  </p>
-</div>
-
----
-
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://komarev.com/ghpvc/?username=ToavinaGitHub&color=blue&style=flat" alt="Profile Views"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToavinaGitHub&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ToavinaGitHub&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
-</div>
-
----
-
-<div align="center">
   <h2>🏆 GitHub Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=ToavinaGitHub&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
@@ -59,17 +36,6 @@
     <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
     <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
   </p>
-</div>
-
----
-
-<div align="center">
-  <h2>🎯 Goals for 2025</h2>
-  <ul>
-    <li>🚀 Build AI-powered tools for developers.</li>
-    <li>🌱 Contribute to impactful open-source projects.</li>
-    <li>📈 Expand knowledge in cloud computing and DevOps.</li>
-  </ul>
 </div>
 
 ---
