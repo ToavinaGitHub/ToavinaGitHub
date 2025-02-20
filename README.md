@@ -15,6 +15,9 @@
     <a href="https://www.kaggle.com/toavina2078">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
     </a>
+    <a href="https://www.npmjs.com/~toavina">
+      <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" alt="NPM Badge"/>
+    </a>
   </div>
 </div>
 
