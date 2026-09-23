@@ -5,13 +5,17 @@
 ---
 
 <div align="center">
-  <div>
+ <div>
   <a href="https://m.me/Toavina.godatesgaming">
     <img src="https://img.shields.io/badge/Messenger-006AFF?logo=messenger&logoColor=white" alt="Messenger Badge"/>
   </a>
 
   <a href="https://wa.me/261380982607">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+
+  <a href="mailto:rtoavina.andriantahiry@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 
   <a href="https://www.linkedin.com/in/toavina-razakarivony-b108ab24a/">
