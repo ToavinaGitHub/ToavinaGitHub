@@ -6,19 +6,30 @@
 
 <div align="center">
   <div>
-    <a href="https://m.me/Toavina.godatesgaming">
-      <img src="https://img.shields.io/badge/Messenger-006AFF?logo=messenger&logoColor=white" alt="Messenger Badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/toavina-razakarivony-b108ab24a/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.kaggle.com/toavina2078">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-    </a>
-    <a href="https://www.npmjs.com/~toavina">
-      <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" alt="NPM Badge"/>
-    </a>
-  </div>
+  <a href="https://m.me/Toavina.godatesgaming">
+    <img src="https://img.shields.io/badge/Messenger-006AFF?logo=messenger&logoColor=white" alt="Messenger Badge"/>
+  </a>
+
+  <a href="https://wa.me/261380982607">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/toavina-razakarivony-b108ab24a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+  <a href="https://www.kaggle.com/toavina2078">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+
+  <a href="https://www.npmjs.com/~toavina">
+    <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" alt="NPM Badge"/>
+  </a>
+
+  <a href="https://toavina-razakarivony.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</div>
 </div>
 
 ---
